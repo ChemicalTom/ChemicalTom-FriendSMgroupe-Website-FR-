@@ -1,0 +1,16 @@
+body {
+    background-color: beige;
+}
+
+h1{
+    font-size:xx-large;
+}
+
+p{
+  text-align: center;
+}
+
+.presentation {
+    display: flex;
+  justify-content: center;
+}  
