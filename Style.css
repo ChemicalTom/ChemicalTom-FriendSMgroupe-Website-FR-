@@ -13,4 +13,31 @@ p{
 .presentation {
     display: flex;
   justify-content: center;
-}  
+  margin: 45px 0 0 0;
+}
+
+#joinroom {
+  background-color: #f44336;
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 10px;
+  margin: 15px 0 0 285px;
+  box-shadow: 0 9px #921a1a;
+  border: #b41919;
+  
+}
+
+#titre {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#rule{
+  margin: 20px 0 0 0;
+  font-style: italic ;
+  font-size: large;
+   
+  
+}
