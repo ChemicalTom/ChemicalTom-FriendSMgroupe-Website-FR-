@@ -25,6 +25,8 @@ p{
   display: inline-block;
   border-radius: 10px;
   margin: 15px 0 0 300px;
+  box-shadow: 0 9px #921a1a;
+  border: #b41919;
   
 }
 
