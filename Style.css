@@ -1,5 +1,7 @@
+
 body {
-    background-color: beige;
+    background-color: #f5f5dc;
+    min-height: 100%
 }
 
 h1{
@@ -23,7 +25,7 @@ p{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  border-radius: 10px;
+  border-radius: 8px;
   margin: 15px 0 0 285px;
   box-shadow: 0 9px #921a1a;
   border: #b41919;
